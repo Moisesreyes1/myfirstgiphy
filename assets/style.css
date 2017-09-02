@@ -1,3 +1,7 @@
+body {
+	background: sienna;
+}
+
 #buttons-view {
 	padding: 5px;
 	margin: 5px;
@@ -8,4 +12,9 @@ button {
 	margin: 5px;
 	background: #f3f713;
 	color: sienna;
+}
+
+img.natureImage {
+	padding: 10px;
+	margin: 10px;
 }
